@@ -1,3 +1,5 @@
+package br.pucminas.hackathon.model.entidades;
+
 public abstract class Instituicao {
     private String nome;
     private String cnpj;
@@ -52,6 +54,6 @@ public abstract class Instituicao {
 
     @Override
     public String toString() {
-        return "Instituicao [Nome: " + getNome() + ", CNPJ: " + getCnpj() + ", Endereco: " + getEndereco() "]";
+        return "Instituicao [Nome: " + getNome() + ", CNPJ: " + getCnpj() + ", Endereco: " + getEndereco() + "]";
     }
 }

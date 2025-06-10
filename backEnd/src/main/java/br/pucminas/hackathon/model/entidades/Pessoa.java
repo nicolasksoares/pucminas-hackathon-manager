@@ -1,4 +1,4 @@
-package br.pucminas.hackathon.model.entidades; // Ajuste o pacote conforme o seu projeto
+package br.pucminas.hackathon.model.entidades;
 
 import java.util.regex.Pattern;
 
