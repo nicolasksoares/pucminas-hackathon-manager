@@ -10,6 +10,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="backEnd" target="23" />
+      <module name="docs" target="23" />
     </bytecodeTargetLevel>
   </component>
 </project>

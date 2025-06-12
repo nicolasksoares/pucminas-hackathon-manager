@@ -1,3 +1,7 @@
+package br.pucminas.hackathon.model.entidades;
+
+import br.pucminas.hackathon.model.entidades.Instituicao;
+
 public class Empresa extends Instituicao {
     private String tipoEmpresa;
     private String areaAtuacao;
