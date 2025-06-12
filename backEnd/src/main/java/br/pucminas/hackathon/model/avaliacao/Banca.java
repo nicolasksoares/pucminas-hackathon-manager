@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Banca {
+public class Banca implements Avaliavel{
 
     private static final int MAX_JURADOS = 4;
     private final Projeto projetoAvaliado;
